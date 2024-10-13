@@ -1,0 +1,11 @@
+# This file contains details on Types of Repositories in GitHub
+Local Repo:
+  this is a copy of the remote repo in github
+  this also contains the code of remote repo when cloned
+  and has to be updated in order to have the latest code from the main branch
+
+Remote Repo:
+  Remote Repo is repo in Github
+  This is generally created by a lead Dev or Project Manager
+  Any changes made to this repo has to be review by Lead in order to make the best out of it
+  then these changes are Merged to the main branch by the Lead

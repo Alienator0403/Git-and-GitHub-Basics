@@ -1,0 +1,6 @@
+Steps to follow to create a GitHub account
+1. Go to https://github.com
+2. Click on signup
+3. Chose an Username and add details a) email b) password
+4. Verify that it's you and finish the step
+5.  That's it it so simple and easy

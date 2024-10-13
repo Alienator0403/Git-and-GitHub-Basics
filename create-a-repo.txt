@@ -1,0 +1,9 @@
+This file has the steps to create a Repository or Repo in GitHub
+1. Sign in to Github at https://github.com using the username and password which
+   are created at Signup step
+2. Then click on + symbol on "Top left" and choose "New Repository"
+3. Name the Repo
+4. Add any description (optional)
+5. Chose Public because "Private needs Subscription"
+6. Then add a Readme if u want - it's a welcome file containing info on Repo
+7. click on "create Repository".

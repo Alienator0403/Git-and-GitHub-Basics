@@ -1,0 +1,9 @@
+# This file introduces the Required terminology of GitHub
+
+Repo: A place holder for all the project files and source code.
+Main or Root: This is the folder which is Production ready or which contains all the Deployable code of the Project.
+Branch: it's an "isolated copy of the main branch" where devs can work on Separate features without disturbing the main branch.
+Commit: Changed code or created files to a branch or Repo.
+Pull request: it's request made by devs to the Lead dev to enable changes on a Branch on to Main line or Production line ( main branch )
+Merge: Merge is done by Repo owner to add all the commits done to diff branches by other devs to the Main line or folder.
+Clone: Copy of remote repo on our Local Machine
